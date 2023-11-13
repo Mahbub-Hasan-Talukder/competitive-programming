@@ -1,6 +1,0 @@
-
-Hey, Sorry for redirecting you. 
-
-Please, follow my LeetCode repository to practice data-structure.
-
-LeetCode repository link: https://github.com/Mahbub-Hasan-Talukder/LeetCode
