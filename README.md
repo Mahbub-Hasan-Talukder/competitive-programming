@@ -16,7 +16,7 @@ To get started with practicing problems, follow these steps:
 <summary><b>Number Theory and Basic Mathematics</b></summary>
 
 - [Contest Link](https://vjudge.net/contest/594250)
-- [Solutions](https://github.com/Mahbub-Hasan-Talukder/competitive-programming/tree/main/number-theory)
+- [Find Solutions](https://github.com/Mahbub-Hasan-Talukder/competitive-programming/tree/main/number-theory)
 
 </details>
 
@@ -24,7 +24,7 @@ To get started with practicing problems, follow these steps:
 <details>
 <summary><b>Data-Structure</b></summary>
   
--Follow my <b>[LeetCode](https://github.com/Mahbub-Hasan-Talukder/LeetCode)</b> repository to practice data-structure.
+*Follow my <b>[LeetCode](https://github.com/Mahbub-Hasan-Talukder/LeetCode)</b> repository to practice data-structure.
 
 </details>
 
